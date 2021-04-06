@@ -7,3 +7,4 @@ line from user1
 some new feature
 line from user1 lesson
 some change
+user 2 тоже изменил у себя на локальном, но не обновил с удаленным мастером
