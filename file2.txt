@@ -3,3 +3,5 @@ some other line
 line from user2
 another line from user2
 critical bag fixed
+line from user2 from Lesson
+у меня новая фича, но в локальном мастере нет нового коммита
